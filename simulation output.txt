@@ -1,0 +1,17 @@
+============================================================
+       WiFi SIGNAL STRENGTH ANALYZER TESTBENCH
+============================================================
+
+WiFi Signal Strength Analyzer
+-------------------------------------------------------
+Network             RSSI (dBm)     Quality
+-------------------------------------------------------
+Excellent_Network   -40            Excellent
+Good_Network        -55            Good
+Fair_Network        -65            Fair
+Weak_Network        -80            Weak
+Boundary_50         -50            Excellent
+Boundary_60         -60            Good
+Boundary_70         -70            Fair
+
+Testbench completed successfully.
